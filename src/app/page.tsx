@@ -10,7 +10,7 @@ export default function Home() {
           </div>
           <ul>
             <li>한국공학대학교</li>
-            <li>배곶</li>
+            <li>배곧</li>
           </ul>
         </header>
         <main className={styles.main}>
